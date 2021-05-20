@@ -1,0 +1,10 @@
+* {
+  box-sizing: content-box;
+}
+
+.thecontent {
+  position: absolute;
+  top: 0;
+  background-color: #fff;
+  width: 100%;
+}
