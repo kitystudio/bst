@@ -8,3 +8,8 @@
   background-color: #fff;
   width: 100%;
 }
+
+.card-image {
+  height: 240px;
+  object-fit: cover;
+}

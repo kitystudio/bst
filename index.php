@@ -75,7 +75,40 @@
           <span class="visually-hidden">Next</span>
         </a>
       </div>
-      
+      <div class="container py-5">
+        <div class="row">
+          <div class="col">
+            <div class="card shadow-sm">
+              <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgrwBkQ4wdUMakjocLtvt9JzIxwpojZdnqedEH6IJJG_LCghFQE392aerhvN8vaH62hXx-O3dDx7YVU3x2VI8ytouz4AsagMPHkW3TdutQGMmdu7Wt5N1kCULZacKH-QpTFRiMX5zEK-74Cr3QLn2H=w320-c" alt="" class="card-img-top card-image">
+              <div class="card-body">
+                <h5 class="card-title">Lorem ipsum</h5>
+                <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                <a href="" class="btn btn-primary">Read more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img src="https://lh3.googleusercontent.com/pw/ACtC-3ekQ1mW35UrEDOS18-a4_UQ8aQUbVjSPTc5NyEjbuG9KUtPtR-ls0oGt9fdHyhspb4m36VEKBdDu-F1eBautF71e2sYLEbEkru3jjmcTdP_qZSUfDqeoTsmW-FzNWgWF60wDoXYWBz0VsTvwFz1iSHz=w320-c" alt="" class="card-img-top card-image">
+              <div class="card-body">
+                <h5 class="card-title">Lorem</h5>
+                <p class="card-text ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit.</p>
+                <a href="" class="btn btn-primary">Read more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img src="https://lh3.googleusercontent.com/pw/ACtC-3c899W07MzwaBtQgZzc7qTSdYKAY6XR3jRFMYhjsRSpfkjRT23XL4JVEP1ucE8nPqv7HwnN5c44XUbBtozguaqjyeL8yEBUX-cdoikWGd8lHZ2HHZgJOWoIPyjFQOPSZQRQuRv9xhax19B5Iwij45Bu=w320-c" alt="" class="card-img-top card-image">
+              <div class="card-body">
+                <h5 class="card-title">Lorem ipsum</h5>
+                <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                <a href="" class="btn btn-primary">Read more</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
