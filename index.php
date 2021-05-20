@@ -83,7 +83,7 @@
               <div class="card-body">
                 <h5 class="card-title">Lorem ipsum</h5>
                 <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                <a href="" class="btn btn-primary">Read more</a>
+                <a href="" class="btn btn-primary d-block">Read more</a>
               </div>
             </div>
           </div>
@@ -93,7 +93,7 @@
               <div class="card-body">
                 <h5 class="card-title">Lorem</h5>
                 <p class="card-text ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit.</p>
-                <a href="" class="btn btn-primary">Read more</a>
+                <a href="" class="btn btn-primary d-block">Read more</a>
               </div>
             </div>
           </div>
@@ -103,7 +103,7 @@
               <div class="card-body">
                 <h5 class="card-title">Lorem ipsum</h5>
                 <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                <a href="" class="btn btn-primary">Read more</a>
+                <a href="" class="btn btn-primary d-block">Read more</a>
               </div>
             </div>
           </div>
