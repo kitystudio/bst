@@ -27,8 +27,8 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-            <ul class="navbar-nav me-0 ms-auto mb-2 mb-lg-0">
-              <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
+            <ul class="navbar-nav me-0 ms-auto mb-2 mb-">
+              <li class="nav-item"><a class="nav-link actilg-1ve" aria-current="page" href="#">Home</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Support</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Inquiry</a></li>
@@ -75,45 +75,39 @@
           <span class="visually-hidden">Next</span>
         </a>
       </div>
-      <div class="container py-5">
-        
-        
-        <div class="row justify-content-between">
-          <div class="col-md-4 g-0">
-            <div class="card shadow-sm">
-              <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgrwBkQ4wdUMakjocLtvt9JzIxwpojZdnqedEH6IJJG_LCghFQE392aerhvN8vaH62hXx-O3dDx7YVU3x2VI8ytouz4AsagMPHkW3TdutQGMmdu7Wt5N1kCULZacKH-QpTFRiMX5zEK-74Cr3QLn2H=w320-c" alt="" class="card-img-top card-image">
-              <div class="card-body">
-                <h5 class="card-title">Lorem ipsum</h5>
-                <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                <a href="" class="btn btn-primary d-block">Read more</a>
+      <div class="py-5">
+        <div class="container">
+          
+          
+          
+            <div class="row">
+              <div class="col">
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgrwBkQ4wdUMakjocLtvt9JzIxwpojZdnqedEH6IJJG_LCghFQE392aerhvN8vaH62hXx-O3dDx7YVU3x2VI8ytouz4AsagMPHkW3TdutQGMmdu7Wt5N1kCULZacKH-QpTFRiMX5zEK-74Cr3QLn2H=w320-c" alt="" class="card-img-top card-image">
+                  <div class="body">
+                    <h5 class="card-title">Lorem ipsum</h5>
+                    <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    <a href="" class="btn btn-primary d-block">Read more</a>
+                  </div>
+              </div>
+              <div class="col">
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3ekQ1mW35UrEDOS18-a4_UQ8aQUbVjSPTc5NyEjbuG9KUtPtR-ls0oGt9fdHyhspb4m36VEKBdDu-F1eBautF71e2sYLEbEkru3jjmcTdP_qZSUfDqeoTsmW-FzNWgWF60wDoXYWBz0VsTvwFz1iSHz=w320-c" alt="" class="card-img-top card-image">
+                  <div class="body">
+                    <h5 class="card-title">Lorem</h5>
+                    <p class="card-text ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit.</p>
+                    <a href="" class="btn btn-primary d-block">Read more</a>
+                  </div>
+              </div>
+              <div class="col">
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3c899W07MzwaBtQgZzc7qTSdYKAY6XR3jRFMYhjsRSpfkjRT23XL4JVEP1ucE8nPqv7HwnN5c44XUbBtozguaqjyeL8yEBUX-cdoikWGd8lHZ2HHZgJOWoIPyjFQOPSZQRQuRv9xhax19B5Iwij45Bu=w320-c" alt="" class="card-img-top card-image">
+                  <div class="body">
+                    <h5 class="card-title">Lorem ipsum</h5>
+                    <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    <a href="" class="btn btn-primary d-block">Read more</a>
+                  </div>
               </div>
             </div>
-          </div>
           
-          
-          <div class="col-md-4 g-0">
-            <div class="card shadow-sm">
-              <img src="https://lh3.googleusercontent.com/pw/ACtC-3ekQ1mW35UrEDOS18-a4_UQ8aQUbVjSPTc5NyEjbuG9KUtPtR-ls0oGt9fdHyhspb4m36VEKBdDu-F1eBautF71e2sYLEbEkru3jjmcTdP_qZSUfDqeoTsmW-FzNWgWF60wDoXYWBz0VsTvwFz1iSHz=w320-c" alt="" class="card-img-top card-image">
-              <div class="card-body">
-                <h5 class="card-title">Lorem</h5>
-                <p class="card-text ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit.</p>
-                <a href="" class="btn btn-primary d-block">Read more</a>
-              </div>
-            </div>
-          </div>
-          
-          
-          <div class="col-md-4 g-0">
-            <div class="card shadow-sm">
-              <img src="https://lh3.googleusercontent.com/pw/ACtC-3c899W07MzwaBtQgZzc7qTSdYKAY6XR3jRFMYhjsRSpfkjRT23XL4JVEP1ucE8nPqv7HwnN5c44XUbBtozguaqjyeL8yEBUX-cdoikWGd8lHZ2HHZgJOWoIPyjFQOPSZQRQuRv9xhax19B5Iwij45Bu=w320-c" alt="" class="card-img-top card-image">
-              <div class="card-body">
-                <h5 class="card-title">Lorem ipsum</h5>
-                <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                <a href="" class="btn btn-primary d-block">Read more</a>
-              </div>
-            </div>
-                    </div>
-          </div>
+        </div>
         
         
       </div>
