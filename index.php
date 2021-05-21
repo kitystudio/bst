@@ -48,21 +48,21 @@
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dlhwl04yFXscAQ8y0YUqBCeoctyskUqT1r06m3pj6q4PZUdNk2U0p-mRBerH0wkXzxUAsmD7klLXfkgGG2Mm7sYtkXTnNCKLCl5b56wmeqDr1r5HkoRGK3l-VMKx5Pj1jbWUWP5aL-jSr9-FtWOWvw=h480" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h2 class="display-6 text-primary">Lorem, ipsum dolor</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, rem?</p>
+              <p class="lead d-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, rem?</p>
             </div>
           </div>
           <div class="carousel-item active">
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dGgUUqCCIdg_gKSzIJ3xUS7M8z74hvyqBM-bFvXTgtHaWAYs9dkBE3G_eFePiFxhsziZT7821kDQ6P_wXJ2N9C8XhRDbpmVRrLErRLnicI_hoz-fdjWUUGu2PHpG6lRwdUQIbW8WVUuuLlCZpllbnH=h480" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h2 class="display-6 text-primary">Lorem, ipsum dolor</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur elit. Soluta, rem?</p>
+              <p class="lead d-none d-md-block">Lorem ipsum dolor sit amet, consectetur elit. Soluta, rem?</p>
             </div>
           </div>
           <div class="carousel-item">
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3e1BlnnSJk6sFNjJsmHEyU2d9MrN3sxaZtg6WeQyJEnGqOzcXxFb8praxBBdHRRKK-a6pdwEtCe7zfcUWeFI9hqobLnxiGT3xxrxp3CYWzDsMjN1aVKHqvbMtcbJm-ItdLZ6SSeyP2uzNDrqFb6cbp0=h480" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h2 class="display-6 text-primary">Lorem, ipsum dolor</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, rem?</p>
+              <p class="lead d-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, rem?</p>
             </div>
           </div>
         </div>
@@ -76,8 +76,10 @@
         </a>
       </div>
       <div class="container py-5">
-        <div class="row">
-          <div class="col">
+        
+        
+        <div class="row justify-content-between">
+          <div class="col-md-4 g-0">
             <div class="card shadow-sm">
               <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgrwBkQ4wdUMakjocLtvt9JzIxwpojZdnqedEH6IJJG_LCghFQE392aerhvN8vaH62hXx-O3dDx7YVU3x2VI8ytouz4AsagMPHkW3TdutQGMmdu7Wt5N1kCULZacKH-QpTFRiMX5zEK-74Cr3QLn2H=w320-c" alt="" class="card-img-top card-image">
               <div class="card-body">
@@ -87,7 +89,9 @@
               </div>
             </div>
           </div>
-          <div class="col">
+          
+          
+          <div class="col-md-4 g-0">
             <div class="card shadow-sm">
               <img src="https://lh3.googleusercontent.com/pw/ACtC-3ekQ1mW35UrEDOS18-a4_UQ8aQUbVjSPTc5NyEjbuG9KUtPtR-ls0oGt9fdHyhspb4m36VEKBdDu-F1eBautF71e2sYLEbEkru3jjmcTdP_qZSUfDqeoTsmW-FzNWgWF60wDoXYWBz0VsTvwFz1iSHz=w320-c" alt="" class="card-img-top card-image">
               <div class="card-body">
@@ -97,7 +101,9 @@
               </div>
             </div>
           </div>
-          <div class="col">
+          
+          
+          <div class="col-md-4 g-0">
             <div class="card shadow-sm">
               <img src="https://lh3.googleusercontent.com/pw/ACtC-3c899W07MzwaBtQgZzc7qTSdYKAY6XR3jRFMYhjsRSpfkjRT23XL4JVEP1ucE8nPqv7HwnN5c44XUbBtozguaqjyeL8yEBUX-cdoikWGd8lHZ2HHZgJOWoIPyjFQOPSZQRQuRv9xhax19B5Iwij45Bu=w320-c" alt="" class="card-img-top card-image">
               <div class="card-body">
@@ -106,8 +112,10 @@
                 <a href="" class="btn btn-primary d-block">Read more</a>
               </div>
             </div>
+                    </div>
           </div>
-        </div>
+        
+        
       </div>
     </div>
     <!-- Optional JavaScript; choose one of the two! -->
