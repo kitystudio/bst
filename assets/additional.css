@@ -1,5 +1,8 @@
 * {
-  box-sizing: content-box;
+  /* box-sizing: content-box; 
+  これがいけないと
+  https://chaika.hatenablog.com/entry/2017/03/26/080000
+  が気づかせてくれた*/
 }
 
 .thecontent {
