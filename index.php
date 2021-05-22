@@ -92,7 +92,7 @@
             </div>
           </div>
         </div>
-      </section#prodicts>
+      </section>
 
       <form id="mailform" class="bg-white py-5">
         <div class="container">
