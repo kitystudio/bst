@@ -13,7 +13,7 @@
   <body>
     <div class="thecontent">
       
-      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container justify-content-between">
           <a class="navbar-brand" href="#">MyBootstrapTest</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -123,7 +123,14 @@
               </div>
             </div>
           </div>
+        </div>
       </form>
+
+      <footer class="bg-secondary bg-gradient mb-0 pt-1 pb-3">
+        <div class="container">
+          <p class="text-end text-white">copyright hpmeister</p>
+        </div>
+      </footer>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
