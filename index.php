@@ -96,27 +96,33 @@
 
       <form id="mailform" class="bg-white py-5">
         <div class="container">
-          <div id="email_address" class="pb-3">
-            <label for="email" class="form-label">Email:</label>
-            <input type="email" name="from" id="from" class="form-control">
+          <div class="row">
+            <div class="col-sm col-md-4">
+              <h2 class="contact_title">お問い合わせ</h2>
+            </div>
+            <div class="col-sm col-md-8">
+              <div id="email_address" class="pb-3">
+                <label for="email" class="form-label">Email:</label>
+                <input type="email" name="from" id="from" class="form-control">
+              </div>
+              <div id="name" class="pb-3">
+                <label for="name" class="form-label">お名前:</label>
+                <input type="text" name="name" id="name" class="form-control">
+              </div>
+              <div id="title" class="pb-3">
+                <label for="subj" class="form-label">件名:</label>
+                <input type="text" class="form-control-plaintext" value="お問い合わせ">
+              </div>
+              <div id="comm" class="pb-3">
+                <label for="comm" class="form-label">本文:</label>
+                <textarea name="comm" id="comm" cols="30" rows="10" class="form-control"></textarea>
+              </div>
+              <div id="cmd" class="">
+                <button type="submit" class="btn btn-primary">確認</button>
+                <button type="reset" class="btn btn-secondary">取り消す</button>
+              </div>
+            </div>
           </div>
-          <div id="name" class="pb-3">
-            <label for="name" class="form-label">お名前:</label>
-            <input type="text" name="name" id="name" class="form-control">
-          </div>
-          <div id="title" class="pb-3">
-            <label for="subj" class="form-label">件名:</label>
-            <input type="text" class="form-control-plaintext" value="お問い合わせ">
-          </div>
-          <div id="comm" class="pb-3">
-            <label for="comm" class="form-label">本文:</label>
-            <textarea name="comm" id="comm" cols="30" rows="10" class="form-control"></textarea>
-          </div>
-          <div id="cmd" class="">
-            <button type="submit" class="btn btn-primary">確認</button>
-            <button type="reset" class="btn btn-secondary">取り消す</button>
-          </div>
-        </div>
       </form>
     <!-- Optional JavaScript; choose one of the two! -->
 
