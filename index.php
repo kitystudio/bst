@@ -7,14 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/main.css">
-    <style>
-      .carousel-item img {
-        height: 30vh;
-        object-fit: cover;
-        filter: opacity(0.5);
-      }
-    </style>
+    <link rel="stylesheet" href="assets/additional.css">
     <title>MyBootstrap Test</title>
   </head>
   <body>
@@ -76,34 +69,28 @@
         </a>
       </div>
       
-      <div class="container py-3">
-        <div class="row">
-          <div class="col-sm">
-            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgrwBkQ4wdUMakjocLtvt9JzIxwpojZdnqedEH6IJJG_LCghFQE392aerhvN8vaH62hXx-O3dDx7YVU3x2VI8ytouz4AsagMPHkW3TdutQGMmdu7Wt5N1kCULZacKH-QpTFRiMX5zEK-74Cr3QLn2H=w320-c" alt="" class="card-img-top card-image">
-            <div class="body">
-              <h5 class="card-title">Lorem ipsum</h5>
-              <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-              <a href="" class="btn btn-primary d-block">Read more</a>
-            </div>
+      <section id="products" class="products bg-light py-5">
+        <div class="wrapper d-flex flex-wrap justify-content-between">
+          <div class="d-block col-sm w-100 py-3">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgrwBkQ4wdUMakjocLtvt9JzIxwpojZdnqedEH6IJJG_LCghFQE392aerhvN8vaH62hXx-O3dDx7YVU3x2VI8ytouz4AsagMPHkW3TdutQGMmdu7Wt5N1kCULZacKH-QpTFRiMX5zEK-74Cr3QLn2H=w320-c" alt="" class="product_image d-block m-auto">
+            <h2 class="product_title text-center">name2</h2>
+            <p class="descri text-center">Lorem ipsum dolor sit amet consectetur.</p>
+            <p class="text-center"><a href="" class="btn btn-info">read more</a></p>
           </div>
-          <div class="col-sm">
-            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ekQ1mW35UrEDOS18-a4_UQ8aQUbVjSPTc5NyEjbuG9KUtPtR-ls0oGt9fdHyhspb4m36VEKBdDu-F1eBautF71e2sYLEbEkru3jjmcTdP_qZSUfDqeoTsmW-FzNWgWF60wDoXYWBz0VsTvwFz1iSHz=w320-c" alt="" class="card-img-top card-image">
-            <div class="body">
-              <h5 class="card-title">Lorem</h5>
-              <p class="card-text ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit.</p>
-              <a href="" class="btn btn-primary d-block">Read more</a>
-            </div>
+          <div class="d-block col-sm w-100 py-3">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ekQ1mW35UrEDOS18-a4_UQ8aQUbVjSPTc5NyEjbuG9KUtPtR-ls0oGt9fdHyhspb4m36VEKBdDu-F1eBautF71e2sYLEbEkru3jjmcTdP_qZSUfDqeoTsmW-FzNWgWF60wDoXYWBz0VsTvwFz1iSHz=w320-c" alt="" class="product_image d-block m-auto">
+            <h2 class="product_title text-center">name3</h2>
+            <p class="descri text-center">Lorem ipsum dolor sit amet consectetur.</p>
+            <p class="text-center"><a href="" class="btn btn-info">read more</a></p>
           </div>
-          <div class="col-sm">
-            <img src="https://lh3.googleusercontent.com/pw/ACtC-3c899W07MzwaBtQgZzc7qTSdYKAY6XR3jRFMYhjsRSpfkjRT23XL4JVEP1ucE8nPqv7HwnN5c44XUbBtozguaqjyeL8yEBUX-cdoikWGd8lHZ2HHZgJOWoIPyjFQOPSZQRQuRv9xhax19B5Iwij45Bu=w320-c" alt="" class="card-img-top card-image">
-            <div class="body">
-              <h5 class="card-title">Lorem ipsum</h5>
-              <p class="card-text ">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-              <a href="" class="btn btn-primary d-block">Read more</a>
-            </div>
+          <div class="d-block col-sm w-100 py-3">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3c899W07MzwaBtQgZzc7qTSdYKAY6XR3jRFMYhjsRSpfkjRT23XL4JVEP1ucE8nPqv7HwnN5c44XUbBtozguaqjyeL8yEBUX-cdoikWGd8lHZ2HHZgJOWoIPyjFQOPSZQRQuRv9xhax19B5Iwij45Bu=w320-c" alt="" class="product_image d-block m-auto">
+            <h2 class="product_title text-center">name4</h2>
+            <p class="descri text-center">Lorem ipsum dolor sit amet consectetur.</p>
+            <p class="text-center"><a href="" class="btn btn-info">read more</a></p>
           </div>
         </div>
-      </div>
+      </section#prodicts>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->

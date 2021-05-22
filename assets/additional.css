@@ -9,8 +9,15 @@
   width: 100%;
 }
 
-.card-image {
-  height: 240px;
+.product_image {
   object-fit: cover;
+  width: 50%;
+  border-radius: 50%;
+
 }
 
+.carousel-item img {
+  height: 30vh;
+  object-fit: cover;
+  filter: opacity(0.5);
+}
