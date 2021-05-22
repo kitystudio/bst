@@ -21,7 +21,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav me-0 ms-auto mb-2 mb-">
-              <li class="nav-item"><a class="nav-link actilg-1ve" aria-current="page" href="#">Home</a></li>
+              <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Support</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Inquiry</a></li>
@@ -70,7 +70,7 @@
       </div>
       
       <section id="products" class="products bg-light py-5">
-        <div class="container d-flex flex-wrap justify-content-between">
+        <div class="container">
           <div class="row">
             <div class="d-block col-sm w-100 py-3">
               <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgrwBkQ4wdUMakjocLtvt9JzIxwpojZdnqedEH6IJJG_LCghFQE392aerhvN8vaH62hXx-O3dDx7YVU3x2VI8ytouz4AsagMPHkW3TdutQGMmdu7Wt5N1kCULZacKH-QpTFRiMX5zEK-74Cr3QLn2H=w320-c" alt="" class="product_image d-block m-auto">
@@ -93,6 +93,31 @@
           </div>
         </div>
       </section#prodicts>
+
+      <form id="mailform" class="bg-white py-5">
+        <div class="container">
+          <div id="email_address" class="pb-3">
+            <label for="email" class="form-label">Email:</label>
+            <input type="email" name="from" id="from" class="form-control">
+          </div>
+          <div id="name" class="pb-3">
+            <label for="name" class="form-label">お名前:</label>
+            <input type="text" name="name" id="name" class="form-control">
+          </div>
+          <div id="title" class="pb-3">
+            <label for="subj" class="form-label">件名:</label>
+            <input type="text" class="form-control-plaintext" value="お問い合わせ">
+          </div>
+          <div id="comm" class="pb-3">
+            <label for="comm" class="form-label">本文:</label>
+            <textarea name="comm" id="comm" cols="30" rows="10" class="form-control"></textarea>
+          </div>
+          <div id="cmd" class="">
+            <button type="submit" class="btn btn-primary">確認</button>
+            <button type="reset" class="btn btn-secondary">取り消す</button>
+          </div>
+        </div>
+      </form>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
